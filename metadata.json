@@ -1,0 +1,6 @@
+{
+  "name": "LMS 5 Cấp MVP",
+  "description": "Hệ thống quản lý học tập (LMS) 5 cấp phân quyền dành cho Super Admin và Học viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
